@@ -7941,7 +7941,6 @@ GameObject:
   - component: {fileID: 2757765485359031355}
   - component: {fileID: 4242352026911046146}
   - component: {fileID: 8243396535008767539}
-  - component: {fileID: 6668904838441638519}
   m_Layer: 0
   m_Name: DefaultMesh
   m_TagString: Ball
@@ -8020,19 +8019,6 @@ SphereCollider:
   m_Enabled: 1
   serializedVersion: 2
   m_Radius: 0.5
-  m_Center: {x: 0, y: 0, z: 0}
---- !u!135 &6668904838441638519
-SphereCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6668904838441638516}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 0.49999997
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &6711623568000751897
 GameObject:

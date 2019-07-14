@@ -1093,7 +1093,8 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 1.1e-44, z: 0, w: 9e-44}
+  m_BoundingSphereOverride: {x: 5.2784e-41, y: 0.0000038146986, z: 1.5046328e-36,
+    w: 4.7100648e-33}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -1686,6 +1687,11 @@ PrefabInstance:
       propertyPath: Selected.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 2748488038835702461, guid: 1950b2150beec924d9cff768bb4e815c,
+        type: 3}
+      propertyPath: targetValidity.field
+      value: 
+      objectReference: {fileID: 2103226689}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1950b2150beec924d9cff768bb4e815c, type: 3}
 --- !u!1001 &1281306756
